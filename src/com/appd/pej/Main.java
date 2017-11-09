@@ -9,6 +9,7 @@ public class Main {
         }
     }
 
+
     public static void test() throws InterruptedException {
         int value = 1;
         while (value < 10){
