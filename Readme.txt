@@ -1,0 +1,1 @@
+java -Dfile.encoding=UTF-8 -classpath /Users/pejman/Java/DebuggingStuff/out/production/DebuggingStuff com.appd.pej.Main
